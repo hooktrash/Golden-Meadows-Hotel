@@ -1,0 +1,311 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.Header{
+    position: absolute;
+    top: 65px;
+    left: 150px;
+    font-family: "Protest Revolution", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 92.7px;
+    color: #efaa41;
+}
+.Header2{
+  position: absolute;
+  left: 150px;
+  top: 330px;
+  font-family: "Merienda", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-size: 38.1px;
+  color: whitesmoke;
+  width: 620px;
+}
+.box {
+    position: absolute;
+    top: 40.3px;
+    left: 130px;
+    width: 310px; 
+    height: 150px;
+    color: green;
+    background-color: rgb(red, green, blue);
+    border-radius: 30px;
+    border: 20px solid black; 
+    padding: 0; 
+    margin:0;
+  }
+.line1{
+    position: absolute;
+    background-color: rgb(red, green, blue);
+    border-right: 3px  solid black;
+    right: 100px;
+    top: 0px;
+    height: 750px;
+}
+.line2{
+    position: absolute;
+    background-color: rgb(red, green, blue);
+    border-right: 3px  solid black;
+    right: 60px;
+    top: 0px;
+    height: 800px;
+}
+.line3{
+    position: absolute;
+    background-color: rgb(red, green, blue);
+    border-bottom: 3px  solid black;
+    width: 98%;
+    bottom: 30px;
+
+}
+.Image1{
+    width: 100%;
+}
+.Image2{
+    width: 100%;
+}
+.Container2{
+    position: relative;
+    width: 100%;
+    height: 700px;
+    border-top: 10px solid black;
+    background-color:#dfd5c9;
+}
+.line4{
+    position: absolute;
+    background-color: rgb(red, green, blue);
+    border-bottom: 3px  solid black;
+    top: 30px;
+    left: 20px;
+    width: 78%;
+}
+.line5{
+    position: absolute;
+    background-color: rgb(red, green, blue);
+    border-left: 3px  solid black;
+    height: 590px;
+    top: 20px;
+    left: 35px;
+}
+.Pool{
+    position: absolute;
+    left: 80px;
+    top: 121.7px;
+    height: 209.4px;
+    width: 372.3px;
+}
+.Food{
+    position: absolute;
+    left: 570px;
+    top: 121.7px;
+    height: 209.4px;
+    width: 372.3px;
+}
+.Bed{
+    position: absolute;
+    right: 80px;
+    top: 121.7px;
+    height: 209.4px;
+    width: 372.3px;
+}
+.PoolHeader{
+    position: absolute;
+    left: 93px;
+    font-size:35px;
+    top: 371.3px;
+    font-family: "Titillium Web", sans-serif; 
+    font-weight: 600;
+    font-style: normal;
+}
+.FoodHeader{
+    position: absolute;
+    left: 595px;
+    font-size:35px;
+    top: 371.3px;
+    font-family: "Titillium Web", sans-serif; 
+    font-weight: 600;
+    font-style: normal;
+}
+.BedHeader{
+    position: absolute;
+    right: 93px;
+    font-size:35px;
+    top: 371.3px;
+    font-family: "Titillium Web", sans-serif; 
+    font-weight: 600;
+    font-style: normal;
+}
+.PoolPara{
+    position: absolute;
+    left: 92.5px;
+    top: 466.4px;
+    font-size: 20px;
+    font-weight: 300;
+    text-align: left;
+}
+.FoodPara{
+    position: absolute;
+    left: 595px;
+    top: 466.4px;
+    font-size:35px;
+    font-size: 20px;
+    font-weight: 300;
+    text-align: center;
+}
+.BedPara{
+    position: absolute;
+    right: 93px;
+    top: 466.4px;
+    font-size:35px;
+    font-size: 20px;
+    font-weight: 300;
+    text-align: right;
+}
+.box1{
+    position: absolute;
+    background-color: rgb(red, green, blue);
+    border: 10px solid black; 
+    padding:0; 
+    margin:0;
+    left: 60px;
+    top: 100.7px;
+    height: 250.4px;
+    width: 410.3px;
+}
+.box2{
+    position: absolute;
+    background-color: rgb(red, green, blue);
+    border: 10px solid black; 
+    padding:0; 
+    margin:0;
+    left: 550px;
+    top: 100.7px;
+    height: 250.4px;
+    width: 410.3px;
+}
+.box3{
+    position: absolute;
+    background-color: rgb(red, green, blue);
+    border: 10px solid black; 
+    padding:0; 
+    margin:0;
+    right: 60px;
+    top: 100.7px;
+    height: 250.4px;
+    width: 410.3px;
+}
+.Container3{
+    position: relative;
+      width: 100%;
+      height: 790px;
+      border-top: 10px solid black;
+      background-color:#dfd5c9;
+}
+.Image3{
+    position: absolute;
+    left: 739.6px;
+    top: 103.7px;
+    width: 565.2px;
+    height: 187.3px;
+    border: 20px solid black;
+}
+.Image4{
+    position: absolute;
+    left: 739.6px;
+    top: 321.4px;
+    width: 565.2px;
+    height: 183.4px;
+    border: 20px solid black;
+}
+.Image5{
+    position: absolute;
+    left: 739.6px;
+    top: 535.1px;
+    width:565.2px;
+    height: 169.2px;
+    border: 20px solid black;
+}
+.Header3{
+    position: absolute;
+    font-size: 120px;
+    left: 164.4px;
+    top: 109.2px;
+
+}
+.Header4{
+    position: absolute;
+    font-size: 64.1px;
+    left: 164.4px;
+    top: 290.1px;
+}
+.Para1{
+    position: absolute;
+    font-size: 16.1px;
+    top: 425px;
+    left: 164.4px;
+}
+.Para2{
+    position: absolute;
+    font-size: 16.1px;
+    top: 454.7px;
+    left: 164.4px;
+}
+.Para3{
+    position: absolute;
+    font-size: 16.1px;
+    top: 486.2px;
+    left: 164.4px;
+}
+.Para4{
+    position: absolute;
+    font-size: 16.1px;
+    top: 516.2px;
+    left: 164.4px;
+}
+.Para5{
+    position: absolute;
+    font-size: 16.1px;
+    top: 546.2px;
+    left: 164.4px;
+}
+.Para6{
+    position: absolute;
+    font-size: 16.1px;
+    top: 576.2px;
+    left: 164.4px;
+}
+.line6{
+    position: absolute;
+    background-color: rgb(red, green, blue);
+    border-left: 3px  solid black;
+    height: 760px;
+    left: 35px;
+}
+.line7{
+    position: absolute;
+    background-color: rgb(red, green, blue);
+    border-left: 3px  solid black;
+    bottom: 0;
+    height: 760px;
+    right: 35px;
+}
+.line8{
+    position: absolute;
+    background-color: rgb(red, green, blue);
+    border-bottom: 3px  solid black;
+    width: 99%;
+    bottom: 40px;
+}
+.line9{
+    position: absolute;
+    background-color: rgb(red, green, blue);
+    border-bottom: 3px  solid black;
+    width: 99%;
+    left: 15px;
+    top: 40px;
+}
+
